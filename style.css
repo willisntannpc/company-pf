@@ -6,3 +6,10 @@ footer {
     padding: 20px 0;
 }
 
+.container1{
+    margin: 40px;
+    justify-content: center;
+    align-items: baseline;
+    width: 500px;
+    padding: 15px;
+}
